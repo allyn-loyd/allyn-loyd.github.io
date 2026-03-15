@@ -68,12 +68,12 @@ ninja.data = [{
               window.location.href = "/teachings/22a_230/";
             },},{id: "teachings-csse-132-introduction-to-systems-programming",
           title: 'CSSE 132 - Introduction to Systems Programming',
-          description: "(Grader) Provides students with understanding of computer system level issues and their impact on the design and use of computer systems.Students will study low-level programming (assembly) and memory operations, representation of various types of data and programs in memory, and resource/efficiency trade-offs. System requirements such as resource management, security, communication and synchronization are studied and basic systems tools for these tasks are implemented.Course topics will be explored using a variety of hands-on assignments and projects.",
+          description: "Grader",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/22b_132/";
             },},{id: "teachings-csse-230-data-structures-and-algorithm-analysis",
           title: 'CSSE 230 - Data Structures and Algorithm Analysis',
-          description: "(in-Class Assistant) This course reinforces and extends students&#39; ability to independently design, develop, and debug object-oriented software that uses correct, clear, and efficient algorithms and data structures. Students study and implement classical data structures such as list, stack, queue, tree, priority queue, hash table, graph, set, and dictionary. Formal efficiency analysis is used to evaluate the complexity of algorithms for these data structures. Students gain proficiency in writing recursive methods. Students design and implement software individually, in small groups, and in a challenging multi-week team project.",
+          description: "In-Class Assistant",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/22c_230/";
             },},{id: "teachings-csse-314-bio-inspired-artificial-intelligence",
@@ -93,7 +93,7 @@ ninja.data = [{
               window.location.href = "/teachings/23c_474/";
             },},{id: "teachings-csse-220-object-oriented-software-development",
           title: 'CSSE 220 - Object-Oriented Software Development',
-          description: "Grader, HW Assistant, Project Mentor",
+          description: "Grader, HW Assistant, and Project Mentor",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/24a_220/";
             },},{id: "teachings-csse-220-object-oriented-software-development",
