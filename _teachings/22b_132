@@ -1,9 +1,10 @@
 ---
 layout: course
 title: CSSE 132 - Introduction to Systems Programming
-description: (Grader) Provides students with understanding of computer system level issues and their impact on the design and use of computer systems.Students will study low-level programming (assembly) and memory operations, representation of various types of data and programs in memory, and resource/efficiency trade-offs. System requirements such as resource management, security, communication and synchronization are studied and basic systems tools for these tasks are implemented.Course topics will be explored using a variety of hands-on assignments and projects.
+description: Grader
 instructor: Dr. Lixing Song
 year: 2022
 term: Winter
 course_id: 22b_132
 ---
+Provides students with understanding of computer system level issues and their impact on the design and use of computer systems.Students will study low-level programming (assembly) and memory operations, representation of various types of data and programs in memory, and resource/efficiency trade-offs. System requirements such as resource management, security, communication and synchronization are studied and basic systems tools for these tasks are implemented.Course topics will be explored using a variety of hands-on assignments and projects.
