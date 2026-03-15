@@ -63,7 +63,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "teachings-csse-230-data-structures-and-algorithm-analysis",
           title: 'CSSE 230 - Data Structures and Algorithm Analysis',
-          description: "(Lab Assistant) This course reinforces and extends students&#39; ability to independently design, develop, and debug object-oriented software that uses correct, clear, and efficient algorithms and data structures. Students study and implement classical data structures such as list, stack, queue, tree, priority queue, hash table, graph, set, and dictionary. Formal efficiency analysis is used to evaluate the complexity of algorithms for these data structures. Students gain proficiency in writing recursive methods. Students design and implement software individually, in small groups, and in a challenging multi-week team project.",
+          description: "Lab Assistant",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/22a_230/";
             },},{id: "teachings-csse-132-introduction-to-systems-programming",
@@ -76,6 +76,46 @@ ninja.data = [{
           description: "(in-Class Assistant) This course reinforces and extends students&#39; ability to independently design, develop, and debug object-oriented software that uses correct, clear, and efficient algorithms and data structures. Students study and implement classical data structures such as list, stack, queue, tree, priority queue, hash table, graph, set, and dictionary. Formal efficiency analysis is used to evaluate the complexity of algorithms for these data structures. Students gain proficiency in writing recursive methods. Students design and implement software individually, in small groups, and in a challenging multi-week team project.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/22c_230/";
+            },},{id: "teachings-csse-314-bio-inspired-artificial-intelligence",
+          title: 'CSSE 314 - Bio-Inspired Artificial Intelligence',
+          description: "Lab Assistant and Grader",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/23a_314/";
+            },},{id: "teachings-csse-230-data-structures-and-algorithm-analysis",
+          title: 'CSSE 230 - Data Structures and Algorithm Analysis',
+          description: "In-Class Assistant and Grader",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/23b_230/";
+            },},{id: "teachings-csse-474-theory-of-computation",
+          title: 'CSSE 474 - Theory of Computation',
+          description: "Grader",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/23c_474/";
+            },},{id: "teachings-csse-220-object-oriented-software-development",
+          title: 'CSSE 220 - Object-Oriented Software Development',
+          description: "Grader, HW Assistant, Project Mentor",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/24a_220/";
+            },},{id: "teachings-csse-220-object-oriented-software-development",
+          title: 'CSSE 220 - Object-Oriented Software Development',
+          description: "Project Mentor and Curriculum Development",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/24b_220/";
+            },},{id: "teachings-csse-314-bio-inspired-artificial-intelligence",
+          title: 'CSSE 314 - Bio-Inspired Artificial Intelligence',
+          description: "Lab Assistant and Grader",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/24b_314/";
+            },},{id: "teachings-csse-220-object-oriented-software-development",
+          title: 'CSSE 220 - Object-Oriented Software Development',
+          description: "Project Mentor and Curriculum Development",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/24c_220/";
+            },},{id: "teachings-csse-474-theory-of-computation",
+          title: 'CSSE 474 - Theory of Computation',
+          description: "Grader",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/24c_474/";
             },},{
         id: 'social-email',
         title: 'email',
