@@ -6,7 +6,7 @@ subtitle: <a href="mailto:maloyd@uh.edu">maloyd@uh.edu</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: allyn.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
   
