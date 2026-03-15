@@ -2,14 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses I have been a teaching assistant (TA) for.
 nav: true
 nav_order: 2
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+At Rose-Hulman Institute of Technology, I served as a TA for the Computer Science & Software Engineering department from September 2022 to May 2025. During this period, I served 5 different courses and held office hours, graded, and assisted during labs.
 
 {% include courses.liquid %}

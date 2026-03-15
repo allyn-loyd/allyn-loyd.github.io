@@ -1,0 +1,9 @@
+---
+layout: course
+title: CSSE 230 - Data Structures and Algorithm Analysis
+description: (Lab Assistant) This course reinforces and extends students' ability to independently design, develop, and debug object-oriented software that uses correct, clear, and efficient algorithms and data structures. Students study and implement classical data structures such as list, stack, queue, tree, priority queue, hash table, graph, set, and dictionary. Formal efficiency analysis is used to evaluate the complexity of algorithms for these data structures. Students gain proficiency in writing recursive methods. Students design and implement software individually, in small groups, and in a challenging multi-week team project.
+instructor: Dr. Yiji Zhang and Dr. Rachel Krohn
+year: 2022
+term: Fall
+course_id: 22a_230
+---
