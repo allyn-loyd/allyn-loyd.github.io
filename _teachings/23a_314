@@ -1,0 +1,10 @@
+---
+layout: course
+title: CSSE 314 - Bio-Inspired Artificial Intelligence
+description: Lab Assistant and Grader
+instructor: Dr. Jason Yoder
+year: 2023
+term: Fall
+course_id: 23a_314
+---
+Students learn about theories and methodologies of artificial intelligence (AI) inspired by biological processes. To deepen their understanding of topics, students read, discuss as well as create and refine bio-inspired AI systems such as evolutionary algorithms, cellular automata, neural networks, evolutionary robotics, and/or swarm intelligence algorithms. Topics are covered in an interdisciplinary manner through the integration of key principles from cognitive science and artificial life. The concept of intelligence is repeatedly explored through the study of systems that adapt across vastly different scales of time and space.

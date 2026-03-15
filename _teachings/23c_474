@@ -1,0 +1,10 @@
+---
+layout: course
+title: CSSE 474 - Theory of Computation
+description: Grader
+instructor: Dr. Nathan Chenette and Dr. Ian Ludden
+year: 2024
+term: Spring
+course_id: 23c_474
+---
+Students study mathematical models by which to answer three questions: What is a computer? What limits exist on what problems computers can solve? What does it mean for a problem to be hard? Topics include models of computation (including Turing machines), undecidability (including the Halting Problem) and computational complexity (including NP-completeness). Same as MA 474. 
