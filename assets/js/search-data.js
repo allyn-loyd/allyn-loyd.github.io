@@ -18,16 +18,16 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Courses I have been a teaching assistant (TA) for.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "post-500-server-error",
         
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '500 Server Error <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -61,16 +61,21 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+          section: "News",},{id: "teachings-csse-230-data-structures-and-algorithm-analysis",
+          title: 'CSSE 230 - Data Structures and Algorithm Analysis',
+          description: "(Lab Assistant) This course reinforces and extends students&#39; ability to independently design, develop, and debug object-oriented software that uses correct, clear, and efficient algorithms and data structures. Students study and implement classical data structures such as list, stack, queue, tree, priority queue, hash table, graph, set, and dictionary. Formal efficiency analysis is used to evaluate the complexity of algorithms for these data structures. Students gain proficiency in writing recursive methods. Students design and implement software individually, in small groups, and in a challenging multi-week team project.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+              window.location.href = "/teachings/22a_230/";
+            },},{id: "teachings-csse-132-introduction-to-systems-programming",
+          title: 'CSSE 132 - Introduction to Systems Programming',
+          description: "(Grader) Provides students with understanding of computer system level issues and their impact on the design and use of computer systems.Students will study low-level programming (assembly) and memory operations, representation of various types of data and programs in memory, and resource/efficiency trade-offs. System requirements such as resource management, security, communication and synchronization are studied and basic systems tools for these tasks are implemented.Course topics will be explored using a variety of hands-on assignments and projects.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/22b_132/";
+            },},{id: "teachings-csse-230-data-structures-and-algorithm-analysis",
+          title: 'CSSE 230 - Data Structures and Algorithm Analysis',
+          description: "(in-Class Assistant) This course reinforces and extends students&#39; ability to independently design, develop, and debug object-oriented software that uses correct, clear, and efficient algorithms and data structures. Students study and implement classical data structures such as list, stack, queue, tree, priority queue, hash table, graph, set, and dictionary. Formal efficiency analysis is used to evaluate the complexity of algorithms for these data structures. Students gain proficiency in writing recursive methods. Students design and implement software individually, in small groups, and in a challenging multi-week team project.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/22c_230/";
             },},{
         id: 'social-email',
         title: 'email',
