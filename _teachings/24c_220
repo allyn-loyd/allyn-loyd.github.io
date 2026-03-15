@@ -1,0 +1,10 @@
+---
+layout: course
+title: CSSE 220 - Object-Oriented Software Development
+description: Project Mentor and Curriculum Development
+instructor: Dr. Jason Yoder and Dr. Dave Henthorn
+year: 2025
+term: Spring
+course_id: 25a_220
+---
+Object-oriented programming concepts, including the use of inheritance, interfaces, polymorphism, abstract data types, and encapsulation to enable software reuse and assist in software maintenance. Recursion, GUIs and event handing. Use of common object-based data structures, including stacks, queues, lists, trees, sets, maps, and hash tables. Space/time efficiency analysis. Testing. Introduction to UML.
