@@ -88,7 +88,7 @@ ninja.data = [{
               window.location.href = "/teachings/23b_230/";
             },},{id: "teachings-csse-474-theory-of-computation",
           title: 'CSSE 474 - Theory of Computation',
-          description: "Grader",
+          description: "Grader and HW Assisstant",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/23c_474/";
             },},{id: "teachings-csse-220-object-oriented-software-development",
