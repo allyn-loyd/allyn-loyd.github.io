@@ -29,13 +29,13 @@ In May 2025, I received my Bachelor of Science from Rose-Hulman Institute of Tec
 
 Outside the classroom and lab, I love to bake and crochet. You can often find me hanging out with my cat, or curled up with a good book.
 
-## A look at my current project: ##
+### A look at my current project: ###
 <video
     autoplay
     muted
     loop
     playsinline
     controls
-    style="width:100%; max-width:600px; height:auto; display: block; margin: 0 auto;">
+    style="width:100%; max-width:700px; height:auto; display: block; margin: 0 auto;">
     <source src="{{ '/assets/video/TruckDronesAnimation.mp4' | relative_url }}" type="video/mp4">
 </video>

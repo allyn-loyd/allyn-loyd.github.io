@@ -4,18 +4,20 @@
     {% assign jobs = site.experiences | sort: 'year' | reverse %}
     {% for job in jobs %}
         <div class="job-item">
-        <h3 class="company-title">
-            <a href="{{ job.url }}">{{ job.company }}</a>
-        </h3>
-        <h3 class="job-title">
+        <h4 class="company-title">
+            <a href="{{ job.website }}" target="_blank" rel="noopener noreferrer">
+                {{ job.company }}
+            </a>
+        </h4>
+        <h5 class="job-title">
             {{ job.title }}
-        </h3>
+        </h5>
 
         <div class="job-meta">
             {% if job.term %}
             <span class="job-term">{{ job.term }}</span>
             {% endif %}
-
+            
             {% if job.location %}
             <span class="job-location">{{ job.location}}</span>
             {% endif %}
