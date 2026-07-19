@@ -36,6 +36,6 @@ Outside the classroom and lab, I love to bake and crochet. You can often find me
     loop
     playsinline
     controls
-    style="width:100%; max-width:600px; height:auto;">
+    style="width:100%; max-width:600px; height:auto; display: block; margin: 0 auto;">
     <source src="{{ '/assets/video/TruckDronesAnimation.mp4' | relative_url }}" type="video/mp4">
 </video>

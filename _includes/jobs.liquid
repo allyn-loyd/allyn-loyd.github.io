@@ -15,6 +15,10 @@
             {% if job.term %}
             <span class="job-term">{{ job.term }}</span>
             {% endif %}
+
+            {% if job.location %}
+            <span class="job-location">{{ job.location}}</span>
+            {% endif %}
         </div>
 
         <div class="job-description">
