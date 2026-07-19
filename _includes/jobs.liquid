@@ -1,0 +1,32 @@
+{% if site.experiences %}
+  <div class="jobs">
+    <div class="experience-list">
+    {% assign jobs = site.experiences | sort: 'year' | reverse %}
+    {% for job in jobs %}
+        <div class="job-item">
+        <h3 class="company-title">
+            <a href="{{ job.url }}">{{ job.company }}</a>
+        </h3>
+        <h3 class="job-title">
+            {{ job.title }}
+        </h3>
+
+        <div class="job-meta">
+            {% if job.term %}
+            <span class="job-term">{{ job.term }}</span>
+            {% endif %}
+        </div>
+
+        <div class="job-description">
+            <ul>
+            {% for item in job.description %}
+                <li>{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+            {% endfor %}
+            </ul>
+        </div>
+        </div>
+    {% endfor %}
+    </div>
+{% else %}
+  <p>No experience available.</p>
+{% endif %}

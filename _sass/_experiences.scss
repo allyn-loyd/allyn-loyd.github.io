@@ -1,0 +1,57 @@
+/*****************************
+ * Teachings/Courses styles
+ *****************************/
+
+.experiences {
+  margin-top: 30px;
+}
+
+.experience-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.job-item {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 5px;
+  padding: 15px;
+  background-color: var(--global-bg-color);
+  transition: transform 0.2s ease-in-out;
+
+//   &:hover {
+//     transform: translateY(-5px);
+//     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+//   }
+}
+
+.job-title {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.job-meta {
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+// .job-term,
+// .job-location {
+//   margin-right: 15px;
+// }
+
+.job-location {
+    margin-left: auto;
+}
+
+.job-description {
+  font-size: 0.9rem;
+  margin-bottom: 15px;
+
+  p {
+    margin-bottom: 0;
+  }
+}

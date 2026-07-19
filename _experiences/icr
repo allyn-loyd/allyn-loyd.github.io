@@ -1,0 +1,13 @@
+---
+company: ICR, Inc.
+url: https://icr-team.com/
+title: Electrical Engineer Intern (Signal Processing Focus)
+description:
+- Developed real-time signal processing algorithm to detect radar pulses and enable geolocation of transmitters using real-time data
+- Optimized signal processing algorithms by migrating Python prototypes to C++, improving execution speed by 7× for real-time processing
+- Implemented multiple analysis and testing tools to evaluate the performance of our algorithms
+year: 2024
+term: June 2024 - Aug. 2024
+location: Aurora, CO
+job_id: icr
+---
