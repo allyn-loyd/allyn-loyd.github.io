@@ -50,8 +50,8 @@ ninja.data = [{
           description: "[&quot;Designed new cellular automata models to model weaving and macrame patterns&quot;, &quot;Implemented algorithms to determine the reversibility of cellular automata&quot;, &quot;Published a [technical report](https://scholar.rose-hulman.edu/math_mstr/182/) to show my findings&quot;]",
           section: "Experiences",handler: () => {
               window.location.href = "/experiences/rsurf/";
-            },},{id: "experiences-research-assitant-industrial-and-systems-engineering",
-          title: 'Research Assitant: Industrial and Systems Engineering',
+            },},{id: "experiences-research-assistant-industrial-and-systems-engineering",
+          title: 'Research Assistant: Industrial and Systems Engineering',
           description: "[&quot;Developed and implemented models and algorithms for coordinating truck and drone delivery systems&quot;, &quot;Reduced the time needed to optimize drone routes by finding theoretical bounds within a column generation process&quot;, &quot;Presented research at  the 2026 IISE Annual Conference&quot;, &quot;Assisted advisor in preparing reports for the associated NSF NRT program&quot;, &quot;Prepared recruitment materials for the program&quot;]",
           section: "Experiences",handler: () => {
               window.location.href = "/experiences/uh_ra/";
