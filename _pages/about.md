@@ -29,7 +29,7 @@ In May 2025, I received my Bachelor of Science from Rose-Hulman Institute of Tec
 
 Outside the classroom and lab, I love to bake and crochet. You can often find me hanging out with my cat, or curled up with a good book.
 
-### A look at my current project: ###
+#### A look at my current project: ####
 <video
     autoplay
     muted
