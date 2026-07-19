@@ -28,3 +28,14 @@ Hi, I'm Allyn! I'm a first year Industrial Engineering PhD student at the Univer
 In May 2025, I received my Bachelor of Science from Rose-Hulman Institute of Technology. I completed a double major in Computer Science and Mathematics, with two minors in Psychology and Cognitive Science. I worked with Dr. Jason Yoder and several of my peers to develop a software and hardware toolkit for using evolutionary algorithms to evolve circuits on FPGAs. My senior thesis, also advised by Dr. Yoder, explored using coevolutionary algorithms to improve satelite image compression. I also worked as TA for the Computer Science & Software Engineering and Mathematics departments for 3 years, providing office hours and grading for five different courses. 
 
 Outside the classroom and lab, I love to bake and crochet. You can often find me hanging out with my cat, or curled up with a good book.
+
+A look at my current project:
+<video
+    autoplay
+    muted
+    loop
+    playsinline
+    controls
+    style="width:100%; max-width:800px; height:auto;">
+    <source src="{{ '/assets/video/TruckDronesAnimation.mp4' | relative_url }}" type="video/mp4">
+</video>
