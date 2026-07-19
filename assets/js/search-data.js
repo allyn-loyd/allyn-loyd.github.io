@@ -30,29 +30,37 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/experience/";
           },
-        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
-      },{id: "teachings-csse-230-data-structures-and-algorithm-analysis",
+        },{id: "experiences-classroom-intern",
+          title: 'Classroom Intern',
+          description: "[&quot;Assisted teachers in leading various engineering camps, each with 15-20 kids&quot;, &quot;Helped teach topics including Arduino, soldering, LEGO robotics, VEX robotics, electricity, cryptography, coding, and the engineering design process&quot;, &quot;Supervised 20-60 kids in various camp activities&quot;]",
+          section: "Experiences",handler: () => {
+              window.location.href = "/experiences/discovery_world/";
+            },},{id: "experiences-electrical-engineer-intern-signal-processing-focus",
+          title: 'Electrical Engineer Intern (Signal Processing Focus)',
+          description: "[&quot;Developed real-time signal processing algorithm to detect radar pulses and enable geolocation of transmitters using real-time data&quot;, &quot;Optimized signal processing algorithms by migrating Python prototypes to C++, improving execution speed by 7× for real-time processing&quot;, &quot;Implemented multiple analysis and testing tools to evaluate the performance of our algorithms&quot;]",
+          section: "Experiences",handler: () => {
+              window.location.href = "/experiences/icr/";
+            },},{id: "experiences-teaching-assistant-computer-science-and-software-engineering",
+          title: 'Teaching Assistant: Computer Science and Software Engineering',
+          description: "[&quot;Courses: Data Structures and Algorithm Analysis, Theory of Computation, Object-Oriented Software Development, Bio-Inspired Artificial Intelligence, Introduction to Systems Programming&quot;, &quot;Improved existing project instruction to have more detail and allow for more student creativity&quot;, &quot;Led in-class activities when professors were not able to be in class&quot;, &quot;Answered students’ questions in-person and online during class and office hours&quot;, &quot;Independently graded assignments and exams in a timely manner&quot;]",
+          section: "Experiences",handler: () => {
+              window.location.href = "/experiences/rhit_ta/";
+            },},{id: "experiences-rose-hulman-summer-undergraduate-research-fellowship",
+          title: 'Rose-Hulman Summer Undergraduate Research Fellowship',
+          description: "[&quot;Designed new cellular automata models to model weaving and macrame patterns&quot;, &quot;Implemented algorithms to determine the reversibility of cellular automata&quot;, &quot;Published a [technical report](https://scholar.rose-hulman.edu/math_mstr/182/) to show my findings&quot;]",
+          section: "Experiences",handler: () => {
+              window.location.href = "/experiences/rsurf/";
+            },},{id: "experiences-research-assitant-industrial-and-systems-engineering",
+          title: 'Research Assitant: Industrial and Systems Engineering',
+          description: "[&quot;Developed and implemented models and algorithms for coordinating truck and drone delivery systems&quot;, &quot;Reduced the time needed to optimize drone routes by finding theoretical bounds within a column generation process&quot;, &quot;Presented research at  the 2026 IISE Annual Conference&quot;, &quot;Assisted advisor in preparing reports for the associated NSF NRT program&quot;, &quot;Prepared recruitment materials for the program&quot;]",
+          section: "Experiences",handler: () => {
+              window.location.href = "/experiences/uh_ra/";
+            },},{id: "experiences-research-software-developer-intern",
+          title: 'Research Software Developer Intern',
+          description: "[&quot;Assisted in implementing neural network architectures on FPGAs&quot;, &quot;Designed and developed an interface to efficiently modify FPGA memory configurations&quot;, &quot;Created testing tools to validate FPGA memory functionality and identify hardware/software issues&quot;, &quot;Validated and documented new FPGA platforms to support team development efforts&quot;]",
+          section: "Experiences",handler: () => {
+              window.location.href = "/experiences/vivum/";
+            },},{id: "teachings-csse-230-data-structures-and-algorithm-analysis",
           title: 'CSSE 230 - Data Structures and Algorithm Analysis',
           description: "Lab Assistant",
           section: "Teachings",handler: () => {
