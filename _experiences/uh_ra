@@ -1,7 +1,7 @@
 ---
 company: University of Houston
 website: https://www.ie.uh.edu/
-title: "Research Assitant: Industrial and Systems Engineering"
+title: "Research Assistant: Industrial and Systems Engineering"
 description:
 - Developed and implemented models and algorithms for coordinating truck and drone delivery systems
 - Reduced the time needed to optimize drone routes by finding theoretical bounds within a column generation process
